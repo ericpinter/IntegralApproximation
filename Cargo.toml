@@ -1,0 +1,11 @@
+[package]
+name = "IntegralApproximation"
+version = "0.1.0"
+authors = ["Joj <ericpinter99@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rkm = "0.8.0"
+csv = "1.1.1"
+ndarray = "0.12.1"
+itertools = "0.8.0"
